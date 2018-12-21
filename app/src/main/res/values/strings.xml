@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TWEEDAY</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">7QmGLdQCg9reM9DNZ4Vt4FOpW</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">xkCPjI5xHkVGFkfSlvGVYOa6DC2nBbEJhUupfbymibK4FvW1Rp</string>
+    <string name="title_activity_navigation">TWEEDAY</string>
+    <string name="title_home">Catogaries</string>
+    <string name="title_dashboard">Handles</string>
+    <string name="title_notifications">Tweets</string>
+
+</resources>
